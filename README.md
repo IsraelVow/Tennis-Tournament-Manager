@@ -1,2 +1,2 @@
 # Tennis-Tournament-Manager
-Create, organize and track tennis tournament activity
+Create, organize and track tennis tournament activities
