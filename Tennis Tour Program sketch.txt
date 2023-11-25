@@ -1,0 +1,35 @@
+NTF TOURNAMENT Project
+
+
+Interface
+
+
+New Tournament 
+(Give list of all the default tournaments, 
+give option to edit the default tournament setup incase of changes 
+(which takes them to the set up page)
+View Previous Tournament, 
+View All Tournaments, 
+Analysis, 
+Rankings,
+Player Profile.
+
+(Set up Page)
+Create Tournament Button
+
+Name of Tournament
+Date: from - to
+Draws
+
+Categories.
+
+Male Singles
+Female Singles
+Male Doubles
+Female Doubles
+Mixed Doubles
+Male WheelChair
+Female WheelChair
+
+
+
